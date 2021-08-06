@@ -1,6 +1,11 @@
 # DDAlertView
 
-一个灵活易扩展的弹窗。使用方便，自定义样式，带输入框时自动防遮挡，block防止内存泄漏~
+> 一个灵活易扩展的弹窗。  
+> 使用方便;  
+> 自定义样式;  
+> 带输入框时自动防遮挡;  
+> block防止内存泄漏~  
+
 
 ![alert](https://user-images.githubusercontent.com/16277225/128472441-11367a20-f0da-4129-adae-209f6d934938.gif)
 ![alert1](https://user-images.githubusercontent.com/16277225/128472454-3b2ccdf2-d263-40d0-881c-1cf5fdde31be.gif)
